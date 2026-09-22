@@ -5,7 +5,7 @@ DSA521S Group Project 2026 - Campus Service Centre Simulation (Java Data Structu
 
  Group Members
 * [224080911] - [Hendritte Musambani]
-* [Student Number 2] - [Full Name 2]
+* [226029905] - [Lazarus Jessica]
 * [Student Number 3] - [Full Name 3]
 * [Student Number 4] - [Full Name 4]
 * [Student Number 5] - [Full Name 5]
